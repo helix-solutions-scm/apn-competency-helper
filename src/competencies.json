@@ -507,5 +507,11 @@
       "competencyUrl": "https://apn-checklists.s3.amazonaws.com/competency/generative-ai/consulting/Cks9Pu3tv.html",
       "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/generative-ai/consulting/Cks9Pu3tv/AWS%20Generative%20AI%20Competency%20Self-Assessment.xlsx"
     }
+  },
+  "Foundational Technical Review for SPP": {
+    "consulting": {
+      "competencyUrl": "https://apn-checklists.s3.amazonaws.com/foundational/solution-provider-program/solution-provider-program/Ciqd2UHFB.html",
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/foundational/solution-provider-program/solution-provider-program/Ciqd2UHFB/Foundational%20Technical%20Review%20for%20SPP%20Self-Assessment.xlsx"
+    }
   }
 }
