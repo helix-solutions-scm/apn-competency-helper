@@ -501,5 +501,11 @@
     "consulting": {
       "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/aws-control-tower/CsALWNKWk/AWS%20Control%20Tower%20Self-Assessment.xlsx"
     }
+  },
+  "AWS Generative AI Competency": {
+    "consulting": {
+      "competencyUrl": "https://apn-checklists.s3.amazonaws.com/competency/generative-ai/consulting/Cks9Pu3tv.html",
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/generative-ai/consulting/Cks9Pu3tv/AWS%20Generative%20AI%20Competency%20Self-Assessment.xlsx"
+    }
   }
 }
